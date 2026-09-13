@@ -79,7 +79,7 @@ plugins:
 4. Add the following above the current content of your **index.html**:
 ```html
 ---
-layout: defaut
+layout: default
 ---
 ```
 5. Commit
