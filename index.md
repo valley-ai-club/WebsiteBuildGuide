@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 # Build a Website with GitHub
 
