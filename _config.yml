@@ -1,6 +1,7 @@
 remote_theme: abhinavs/moonwalk
 theme_config:
-  appearance: "auto"
+  appearance: "dark"
   appearance_toggle: true
+  show_link_previews: true
 plugins:
 - jekyll-remote-theme
