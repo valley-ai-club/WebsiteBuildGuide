@@ -1,3 +1,6 @@
+---
+layout: home
+---
 # Build a Website with GitHub
 
 ## 1. Create a public repository
