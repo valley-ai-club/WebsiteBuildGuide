@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 ---
 # Build a Website with GitHub
 
@@ -13,7 +13,7 @@ A repository, or repo, is your project folder on GitHub.
 4. Select **Public** and turn on **Add README**.
 5. Click **Create repository**.
 
-Public means others can view the project files. Use content you want to share publicly. [GitHub guide](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
+Public means others can view the project files. Use content you want to share publicly. [GitHub Guide](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
 
 ## 2. Edit the README
 
@@ -27,7 +27,7 @@ Click **Commit changes** to save. A commit records a version of your files.
 
 1. In the repository, choose **Add file > Create new file**.
 2. Name it exactly **index.html**.
-3. Paste the code below. Change Tyler to your name.
+3. Paste the code below.
 4. Click **Commit changes**.
 
 ```html
@@ -48,8 +48,8 @@ Click **Commit changes** to save. A commit records a version of your files.
 Your repository now contains two files:
 
 ```text
-  README.md
-  index.html
+README.md
+index.html
 ```
 
 ## 4. Publish with GitHub Pages
@@ -69,7 +69,7 @@ https://YOUR-USERNAME.github.io/REPO-NAME/
 
 ## 5. Using Themes
 
-Using a theme allows you to style your website wiithout doing the work yourself.
+Using a theme allows you to style your website without doing the work yourself.
 
 1. Create a new file named **_config.yml**
 2. Add the following lines:
