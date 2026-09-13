@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 ---
 # Build a Website with GitHub
 
