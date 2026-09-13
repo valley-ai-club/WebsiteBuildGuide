@@ -1,9 +1,6 @@
-remote_theme: abhinavs/moonwalk
+remote_theme: abhinavs/moonwalk@0.1.0
 theme_config:
   appearance: "dark"
   appearance_toggle: true
 plugins:
 - jekyll-remote-theme
-- jekyll-feed
-- jekyll-sitemap
-- jekyll-soopr-seo-tag
